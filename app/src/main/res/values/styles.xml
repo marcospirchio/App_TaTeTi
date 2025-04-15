@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Estilo para los botones del tateti -->
+    <style name="BotonTateti">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">#03DAC5</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
+    <style name="BotonTatetiModerno">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:backgroundTint">#2E2E2E</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+
+</resources>

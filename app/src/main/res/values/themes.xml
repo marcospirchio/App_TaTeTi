@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base general -->
+    <style name="Base.Theme.EjemploClase3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores personalizados -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FFC107</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:windowBackground">#222222</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.EjemploClase3" parent="Base.Theme.EjemploClase3" />
+</resources>

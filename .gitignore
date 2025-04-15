@@ -1,0 +1,22 @@
+# Archivos de configuración de Android Studio
+*.iml
+.idea/
+.DS_Store
+
+# Configuración local
+local.properties
+
+# Build y carpetas generadas automáticamente
+.gradle/
+build/
+*/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Archivos temporales del sistema y logs
+*.log
+
+# Claves de firma (muy importante no subirlas)
+*.jks
+*.keystore
